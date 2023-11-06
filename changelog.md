@@ -2,6 +2,17 @@
 
 #### Release status: Alpha Preview
 
+## [0.2.2] - TBD
+
+#### Added:
+
+
+#### Fixed:
+
+
+#### Changed:
+
+
 ## [0.2.1] - 11-03-2023
 
 #### Added:
