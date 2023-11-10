@@ -5,10 +5,10 @@
 ## [0.2.2] - TBD
 
 #### Added:
-
+- Raster layers groups.
 
 #### Fixed:
-
+- Layers list reorder.
 
 #### Changed:
 
