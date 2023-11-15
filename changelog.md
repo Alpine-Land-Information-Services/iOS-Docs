@@ -6,9 +6,11 @@
 
 #### Added:
 - Raster layers groups.
+- Setting layers group visibility.
 
 #### Fixed:
 - Layers list reorder.
+- Single feature selection mode.
 
 #### Changed:
 
