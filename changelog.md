@@ -2,17 +2,22 @@
 
 #### Release status: Alpha Preview
 
-## [0.2.2] - TBD
+## [0.2.2] - 11-17-2023
 
 #### Added:
 - Raster layers groups.
 - Setting layers group visibility.
+- Polygon point movement, add, delete.
+- Line point movement, add, delete.
+- UI button additions.
 
 #### Fixed:
 - Layers list reorder.
 - Single feature selection mode.
 
 #### Changed:
+- Retrvieve tile data from memory during end.
+- Saving geometry to disk on end of edit.
 
 
 ## [0.2.1] - 11-03-2023
