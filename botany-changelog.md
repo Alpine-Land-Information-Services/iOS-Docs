@@ -2,6 +2,18 @@
 
 #### Release status: Beta
 
+## [3.0.0 (55)] - 02-08-2024
+
+#### Added:
+- Atlas and app mode transitions.
+
+#### Fixed:
+- Survey tracking.
+- Sandbox mode will now have its own Atlas directory.
+
+#### Changed:
+- N/A
+
 ## [3.0.0 (54)] - 02-06-2024
 
 #### Added:
