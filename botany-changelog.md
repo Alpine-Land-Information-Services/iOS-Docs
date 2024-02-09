@@ -2,6 +2,26 @@
 
 #### Release status: Beta
 
+
+## [3.0.0 (56)] - 02-09-2024
+
+#### Added:
+- Sidebar swipe gestures.
+
+#### Fixed:
+- Creating features for DB layers which were not initially imported.
+- Editor missing on edit start.
+- Location button selection.
+- Styles editing freeze.
+
+#### Changed:
+- Navigation buttons.
+- New activity add button.
+- Mode switch text.
+
+
+#### PREVIOUS:
+
 ## [3.0.0 (55)] - 02-08-2024
 
 #### Added:
