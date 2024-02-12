@@ -2,6 +2,19 @@
 
 #### Release status: Beta
 
+## [3.0.0 (56)] - 02-09-2024
+
+#### Added:
+- Adding another element from current element add button.
+
+#### Fixed:
+-
+
+#### Changed:
+-
+
+
+#### PREVIOUS:
 
 ## [3.0.0 (56)] - 02-09-2024
 
@@ -19,8 +32,6 @@
 - New activity add button.
 - Mode switch text.
 
-
-#### PREVIOUS:
 
 ## [3.0.0 (55)] - 02-08-2024
 
