@@ -8,7 +8,7 @@
 - Adding another element from current element add button.
 
 #### Fixed:
--
+- Clearing data after resync.
 
 #### Changed:
 -
