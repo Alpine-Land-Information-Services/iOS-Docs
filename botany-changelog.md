@@ -2,13 +2,16 @@
 
 #### Release status: Beta
 
-## [3.0.0 (56)] - 02-09-2024
+## [3.0.0 (58)] - 02-13-2024
 
 #### Added:
-- Adding another element from current element add button.
+- App UI Settings.
+- Switching interface alignmnent.
+- UI Buttons size.
 
 #### Fixed:
 - Clearing data after resync.
+- Activity panel changing size after adding new.
 
 #### Changed:
 -
