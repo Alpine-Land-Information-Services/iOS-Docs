@@ -2,6 +2,24 @@
 
 #### Release status: Beta
 
+## [3.0.0 (59)] - 02-15-2024
+
+#### Added:
+- Custom coordinate Input.
+- Saving coordinates
+- Tap on panel to expand.
+
+#### Fixed:
+- Selection reducing panel.
+
+#### Changed:
+- Navigation changes.
+- Removed feature type from feature info.
+- Area text change
+
+
+#### PREVIOUS:
+
 ## [3.0.0 (58)] - 02-13-2024
 
 #### Added:
@@ -15,9 +33,6 @@
 
 #### Changed:
 -
-
-
-#### PREVIOUS:
 
 ## [3.0.0 (56)] - 02-09-2024
 
