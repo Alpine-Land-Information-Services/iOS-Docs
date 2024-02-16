@@ -2,6 +2,20 @@
 
 #### Release status: Beta
 
+## [3.0.0 (61)] - 02-16-2024
+
+#### Added:
+- Floating sidebar concept.
+
+#### Fixed:
+-
+
+#### Changed:
+- 
+
+
+#### PREVIOUS:
+
 ## [3.0.0 (60)] - 02-16-2024
 
 #### Added:
@@ -16,8 +30,6 @@
 
 #### Changed:
 - 
-
-#### PREVIOUS:
 
 ## [3.0.0 (59)] - 02-15-2024
 
