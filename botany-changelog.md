@@ -15,10 +15,7 @@
 - Style import.
 
 #### Changed:
-- Navigation changes.
-- Removed feature type from feature info.
-- Area text change
-
+- 
 
 #### PREVIOUS:
 
