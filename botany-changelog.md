@@ -2,6 +2,26 @@
 
 #### Release status: Beta
 
+## [3.0.0 (60)] - 02-16-2024
+
+#### Added:
+- Compass added.
+- Saving coordinate location optional description.
+- Sync button in settings.
+
+#### Fixed:
+- Improved panel gesture stability and stickiness.
+- Symbology visibility editing.
+- Style import.
+
+#### Changed:
+- Navigation changes.
+- Removed feature type from feature info.
+- Area text change
+
+
+#### PREVIOUS:
+
 ## [3.0.0 (59)] - 02-15-2024
 
 #### Added:
@@ -16,9 +36,6 @@
 - Navigation changes.
 - Removed feature type from feature info.
 - Area text change
-
-
-#### PREVIOUS:
 
 ## [3.0.0 (58)] - 02-13-2024
 
