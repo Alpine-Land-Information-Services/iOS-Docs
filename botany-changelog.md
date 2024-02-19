@@ -2,6 +2,24 @@
 
 #### Release status: Beta
 
+## [3.0.0 (62)] - 02-19-2024
+
+#### Added:
+- Buttons color option.
+- Floating Navigation.
+- Horizontal Sidebar style.
+
+#### Fixed:
+- Bookmarks keyboard hiding.
+
+#### Changed:
+- Sidebar button location and mode.
+- Dropdown visibility picker for layers.
+- Coordinate save text change.
+
+
+#### PREVIOUS:
+
 ## [3.0.0 (61)] - 02-16-2024
 
 #### Added:
@@ -12,9 +30,6 @@
 
 #### Changed:
 - 
-
-
-#### PREVIOUS:
 
 ## [3.0.0 (60)] - 02-16-2024
 
