@@ -2,6 +2,22 @@
 
 #### Release status: Beta
 
+## [3.0.0 (64)] - 02-20-2024
+
+#### Added:
+- 
+
+#### Fixed:
+- Swipe gestures in layer tree.
+- Pack creating.
+- Style visibility settings.
+
+#### Changed:
+-
+
+
+#### PREVIOUS:
+
 ## [3.0.0 (62)] - 02-19-2024
 
 #### Added:
@@ -16,9 +32,6 @@
 - Sidebar button location and mode.
 - Dropdown visibility picker for layers.
 - Coordinate save text change.
-
-
-#### PREVIOUS:
 
 ## [3.0.0 (61)] - 02-16-2024
 
