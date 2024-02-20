@@ -5,10 +5,12 @@
 ## [3.0.0 (64)] - 02-20-2024
 
 #### Added:
--
+- 
 
 #### Fixed:
-- 
+- Swipe gestures in layer tree.
+- Pack creating.
+- Style visibility settings.
 
 #### Changed:
 -
