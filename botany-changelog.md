@@ -2,6 +2,20 @@
 
 #### Release status: Beta
 
+## [3.0.0 (65)] - 02-20-2024
+
+#### Added:
+- 
+
+#### Fixed:
+- Distance measuring.
+
+#### Changed:
+-
+
+
+#### PREVIOUS:
+
 ## [3.0.0 (64)] - 02-20-2024
 
 #### Added:
@@ -14,9 +28,6 @@
 
 #### Changed:
 -
-
-
-#### PREVIOUS:
 
 ## [3.0.0 (62)] - 02-19-2024
 
