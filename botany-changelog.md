@@ -2,16 +2,17 @@
 
 #### Release status: Beta
 
-## [3.0.0 (65)] - 02-20-2024
+## [3.0.0 (65)] - 02-21-2024
 
 #### Added:
 - 
 
 #### Fixed:
 - Distance measuring.
+- Sidebar activation on keyboard presentation.
 
 #### Changed:
--
+- Nav parent button update.
 
 
 #### PREVIOUS:
