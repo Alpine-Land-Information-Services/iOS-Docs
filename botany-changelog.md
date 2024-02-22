@@ -2,6 +2,20 @@
 
 #### Release status: Beta
 
+## [3.0.0 (66)] - 02-21-2024
+
+#### Added:
+- 
+
+#### Fixed:
+- Layer label style drawing in settings view.
+
+#### Changed:
+- 
+
+
+#### PREVIOUS:
+
 ## [3.0.0 (65)] - 02-21-2024
 
 #### Added:
@@ -13,9 +27,6 @@
 
 #### Changed:
 - Nav parent button update.
-
-
-#### PREVIOUS:
 
 ## [3.0.0 (64)] - 02-20-2024
 
