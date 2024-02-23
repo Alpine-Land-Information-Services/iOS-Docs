@@ -2,16 +2,21 @@
 
 #### Release status: Beta
 
-## [3.0.0 (66)] - 02-21-2024
+## [3.0.0 (66)] - TBD
 
 #### Added:
 - 
 
 #### Fixed:
 - Layer label style drawing in settings view.
+- Keyboard covering text boxes.
+- Numberpad cutting off keyboard.
+- Sync while recording.
+- Persistent sidebar swipe gesture removed.
 
 #### Changed:
-- 
+- Label style structure.
+- Photo button size.
 
 
 #### PREVIOUS:
