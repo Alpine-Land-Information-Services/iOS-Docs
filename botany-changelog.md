@@ -2,6 +2,28 @@
 
 #### Release status: Beta
 
+## [3.0.0 (66)] - 02-26-2024
+
+#### Added:
+- 
+
+#### Fixed:
+- Layer label style drawing in settings view.
+- Keyboard covering text boxes.
+- Numberpad cutting off keyboard.
+- Sync while recording.
+- Persistent sidebar swipe gesture removed.
+- Duplicate displayed species. #130
+
+#### Changed:
+- Label style structure.
+- Photo button size.
+- Species name are required.
+- Layer display path turned off by default.
+
+
+### PREVIOUS:
+
 ## [3.0.0 (65)] - 02-21-2024
 
 #### Added:
@@ -13,9 +35,6 @@
 
 #### Changed:
 - Nav parent button update.
-
-
-#### PREVIOUS:
 
 ## [3.0.0 (64)] - 02-20-2024
 
