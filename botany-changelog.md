@@ -2,6 +2,23 @@
 
 #### Release status: Beta
 
+## [3.0.0 (67)] - TBD
+
+#### Added:
+- Thematics backup and restore on data delete.
+- Setting zoom to full extent after first app init.
+
+#### Fixed:
+- Layer tree order follows the Pack order.
+- Turned off layers editing.
+- Adding photos not marking activity as changed.
+
+#### Changed:
+- 
+
+
+### PREVIOUS:
+
 ## [3.0.0 (66)] - 02-26-2024
 
 #### Added:
@@ -20,9 +37,6 @@
 - Photo button size.
 - Species name are required.
 - Layer display path turned off by default.
-
-
-### PREVIOUS:
 
 ## [3.0.0 (65)] - 02-21-2024
 
