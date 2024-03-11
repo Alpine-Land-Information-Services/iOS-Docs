@@ -7,14 +7,16 @@
 #### Added:
 - Thematics backup and restore on data delete.
 - Setting zoom to full extent after first app init.
+- Build number in settings.
 
 #### Fixed:
 - Layer tree order follows the Pack order.
 - Turned off layers editing.
 - Adding photos not marking activity as changed.
+- Intial sync.
 
 #### Changed:
-- 
+- Layer tree order.
 
 
 ### PREVIOUS:
