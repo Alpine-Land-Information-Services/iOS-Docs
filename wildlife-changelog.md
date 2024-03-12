@@ -2,6 +2,19 @@
 
 #### Release status: Beta
 
+## [2.0.0 (122)] - 03-12-2024
+
+#### Added:
+- 
+
+#### Fixed:
+-
+
+#### Changed:
+- Layer ordering method.
+
+
+#### PREVIOUS:
 
 ## [2.0.0 (121)] - 03-11-2024
 
@@ -15,6 +28,3 @@
 
 #### Changed:
 - Layer order drawing reversed.
-
-
-#### PREVIOUS:
