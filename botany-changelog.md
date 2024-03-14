@@ -2,7 +2,22 @@
 
 #### Release status: Beta
 
+## [3.0.0 (70)] - 03-14-2024
+
+#### Added:
+- 
+
+#### Fixed:
+- Custom tracks
+
+#### Changed:
+- #217
+- #225
+
 ## [3.0.0 (66)] - 02-26-2024
+
+
+### PREVIOUS:
 
 #### Added:
 - 
@@ -20,9 +35,6 @@
 - Photo button size.
 - Species name are required.
 - Layer display path turned off by default.
-
-
-### PREVIOUS:
 
 ## [3.0.0 (65)] - 02-21-2024
 
