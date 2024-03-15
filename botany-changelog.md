@@ -2,6 +2,22 @@
 
 #### Release status: Beta
 
+
+## [3.0.1 (73)] - 03-15-2024
+
+#### Added:
+- 
+
+#### Fixed:
+- Layers ordering.
+- Pack settings export.
+
+
+- ### PREVIOUS:
+
+#### Changed:
+- 
+
 ## [3.0.0 (71)] - 03-14-2024
 
 #### Added:
@@ -13,9 +29,6 @@
 
 #### Changed:
 - 
-
-
-### PREVIOUS:
 
 ## [3.0.0 (70)] - 03-14-2024
 
