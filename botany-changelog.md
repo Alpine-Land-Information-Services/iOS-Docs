@@ -1,8 +1,21 @@
 # Botany 3 Changelog
 
-#### Release status: Beta
+#### Release status: Production
 
 
+## [3.0.3 (76)] - 03-18-2024
+
+#### Added:
+-
+
+#### Fixed:
+- My Folder inital files upload.
+
+#### Changed:
+- 
+
+
+- ### PREVIOUS:
 ## [3.0.1 (73)] - 03-15-2024
 
 #### Added:
@@ -11,9 +24,6 @@
 #### Fixed:
 - Layers ordering.
 - Pack settings export.
-
-
-- ### PREVIOUS:
 
 #### Changed:
 - 
