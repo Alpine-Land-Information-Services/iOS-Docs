@@ -2,6 +2,19 @@
 
 #### Release status: Beta
 
+## [2.0.0 (128)] - 03-20-2024
+
+#### Added:
+- Finding buffer IDs from the map.
+
+#### Fixed:
+- Draw priority per symbolizer.
+
+#### Changed:
+
+
+#### PREVIOUS:
+
 ## [2.0.0 (122)] - 03-12-2024
 
 #### Added:
@@ -12,10 +25,7 @@
 
 #### Changed:
 - Layer ordering method.
-
-
-#### PREVIOUS:
-
+  
 ## [2.0.0 (121)] - 03-11-2024
 
 #### Added:
